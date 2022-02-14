@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5fA7cC946729f826c46B1DAD676D76AB0b980def",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x5fa7cc946729f826c46b1dad676d76ab0b980def",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "FUNNY BOB",
+  "SYMBOL": "FB",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/funny-bob",
+  "SHOW_BACKGROUND": true
+}
